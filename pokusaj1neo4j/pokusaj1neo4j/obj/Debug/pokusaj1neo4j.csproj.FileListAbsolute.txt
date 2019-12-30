@@ -1,0 +1,17 @@
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\bin\Debug\pokusaj1neo4j.exe.config
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\bin\Debug\pokusaj1neo4j.exe
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\bin\Debug\pokusaj1neo4j.pdb
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\bin\Debug\Neo4j.Driver.dll
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\bin\Debug\Neo4jClient.dll
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\bin\Debug\Newtonsoft.Json.dll
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\bin\Debug\Neo4j.Driver.xml
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\bin\Debug\Neo4jClient.pdb
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\bin\Debug\Neo4jClient.xml
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\bin\Debug\Newtonsoft.Json.xml
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\obj\Debug\pokusaj1neo4j.csprojResolveAssemblyReference.cache
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\obj\Debug\pokusaj1neo4j.Properties.Resources.resources
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\obj\Debug\pokusaj1neo4j.csproj.GenerateResource.cache
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\obj\Debug\pokusaj1neo4j.csproj.CoreCompileInputs.cache
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\obj\Debug\pokusaj1neo4j.csproj.CopyComplete
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\obj\Debug\pokusaj1neo4j.exe
+C:\Users\_miskee\source\repos\pokusaj1neo4j\pokusaj1neo4j\obj\Debug\pokusaj1neo4j.pdb
